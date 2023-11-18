@@ -84,25 +84,25 @@ body,
 
 /* Scrollbar */
 /* width */
-.custom-scrollbar::-webkit-scrollbar {
+::-webkit-scrollbar {
   width: 8px;
   height: 8px;
 }
 
 /* Track */
-.custom-scrollbar::-webkit-scrollbar-track {
+::-webkit-scrollbar-track {
   background: #adadad;
   border-radius: 15px;
 }
 
 /* Handle */
-.custom-scrollbar::-webkit-scrollbar-thumb {
+::-webkit-scrollbar-thumb {
   background: #535353;
   border-radius: 15px;
 }
 
 /* Handle on hover */
-.custom-scrollbar::-webkit-scrollbar-thumb:hover {
+::-webkit-scrollbar-thumb:hover {
   background: #363636;
 }
 
